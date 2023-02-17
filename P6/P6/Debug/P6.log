@@ -1,0 +1,74 @@
+﻿  317231117_Practica06_Gpo06.cpp
+C:\Users\miria\CGIHC\P6\P6\317231117_Practica06_Gpo06.cpp(193,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\miria\CGIHC\P6\P6\317231117_Practica06_Gpo06.cpp(229,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\miria\CGIHC\P6\P6\317231117_Practica06_Gpo06.cpp(230,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\miria\CGIHC\P6\P6\317231117_Practica06_Gpo06.cpp(231,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\miria\CGIHC\P6\P6\317231117_Practica06_Gpo06.cpp(322,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\miria\CGIHC\P6\P6\317231117_Practica06_Gpo06.cpp(323,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\miria\CGIHC\P6\P6\317231117_Practica06_Gpo06.cpp(324,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\miria\CGIHC\P6\P6\317231117_Practica06_Gpo06.cpp(381,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\miria\CGIHC\P6\P6\317231117_Practica06_Gpo06.cpp(382,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\miria\CGIHC\P6\P6\317231117_Practica06_Gpo06.cpp(383,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\miria\CGIHC\P6\P6\317231117_Practica06_Gpo06.cpp(440,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\miria\CGIHC\P6\P6\317231117_Practica06_Gpo06.cpp(441,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\miria\CGIHC\P6\P6\317231117_Practica06_Gpo06.cpp(442,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\miria\CGIHC\P6\P6\317231117_Practica06_Gpo06.cpp(671,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\miria\CGIHC\P6\P6\317231117_Practica06_Gpo06.cpp(672,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\miria\CGIHC\P6\P6\317231117_Practica06_Gpo06.cpp(676,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\miria\CGIHC\P6\P6\317231117_Practica06_Gpo06.cpp(677,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\miria\CGIHC\P6\P6\317231117_Practica06_Gpo06.cpp(679,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\miria\CGIHC\P6\P6\317231117_Practica06_Gpo06.cpp(680,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(etc1_utils.obj)' o en 'C:\Users\miria\CGIHC\P6\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_DXT.obj)' o en 'C:\Users\miria\CGIHC\P6\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_helper.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_helper.obj)' o en 'C:\Users\miria\CGIHC\P6\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(SOIL2.obj)' o en 'C:\Users\miria\CGIHC\P6\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  P6.vcxproj -> C:\Users\miria\CGIHC\P6\Debug\P6.exe
