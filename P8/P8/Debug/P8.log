@@ -1,0 +1,13 @@
+﻿  317231117_Practica08_Gpo06.cpp
+C:\Users\miria\CGIHC\P8\P8\317231117_Practica08_Gpo06.cpp(306,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\miria\CGIHC\P8\P8\317231117_Practica08_Gpo06.cpp(544,15): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\miria\CGIHC\P8\P8\317231117_Practica08_Gpo06.cpp(551,15): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\miria\CGIHC\P8\P8\317231117_Practica08_Gpo06.cpp(557,15): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\miria\CGIHC\P8\P8\317231117_Practica08_Gpo06.cpp(563,15): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\miria\CGIHC\P8\P8\317231117_Practica08_Gpo06.cpp(758,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\miria\CGIHC\P8\P8\317231117_Practica08_Gpo06.cpp(759,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\miria\CGIHC\P8\P8\317231117_Practica08_Gpo06.cpp(763,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\miria\CGIHC\P8\P8\317231117_Practica08_Gpo06.cpp(764,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\miria\CGIHC\P8\P8\317231117_Practica08_Gpo06.cpp(766,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\miria\CGIHC\P8\P8\317231117_Practica08_Gpo06.cpp(767,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  P8.vcxproj -> C:\Users\miria\CGIHC\P8\Debug\P8.exe
