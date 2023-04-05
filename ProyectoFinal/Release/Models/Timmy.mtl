@@ -1,0 +1,546 @@
+newmtl Pez2:mesh0102mat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd t0102_0.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Blanco.png
+Ns 0.00
+newmtl Pez2:mesh0102mat2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd t0102_0.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Blanco.png
+Ns 0.00
+newmtl Pez2:pasted__pasted__phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pez.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Blanco.png
+Ns 18.00
+newmtl Pez3:mesh0102mat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd t0102_0.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Blanco.png
+Ns 0.00
+newmtl Pez3:mesh0102mat2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd t0102_0.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Blanco.png
+Ns 0.00
+newmtl Pez3:mesh0228mat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd t0228_0.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Pez3:mesh0228mat2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd t0228_0.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Pez3:pasted__phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pez.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Blanco.png
+Ns 18.00
+newmtl Pez4:mesh0102mat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd t0102_0.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Blanco.png
+Ns 0.00
+newmtl Pez4:mesh0102mat2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd t0102_0.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Blanco.png
+Ns 0.00
+newmtl Pez4:mesh0228mat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd t0228_0.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Pez4:mesh0228mat2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd t0228_0.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Pez4:pasted__phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pez.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Blanco.png
+Ns 18.00
+newmtl Pez6:mesh0102mat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd t0102_0.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Blanco.png
+Ns 0.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert5SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Cuadro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Estrella.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__standardSurface1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pasted__pasted__pasted__standardSurface1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pasted__pasted__pasted__standardSurface1SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pasted__pasted__standardSurface1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pasted__pasted__standardSurface1SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pasted__phong1SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera_Normal.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl pasted__phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Almohada.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl pasted__phong2SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera_Normal1.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl pasted__phong2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Almohada.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl pasted__phong2SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Almohada.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl pasted__phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Techo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl pasted__phong3SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Almohada.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Blanco.png
+Ns 18.00
+newmtl pasted__phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Techo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl pasted__phong3SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Techo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl pasted__phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Puertas.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 0.00
+newmtl pasted__phong4SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Cobija.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Azul.png
+Ns 18.00
+newmtl pasted__phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Vidrio.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Vidrio.png
+Ns 18.00
+newmtl pasted__phong5SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Vidrio.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Vidrio.png
+Ns 18.00
+newmtl pasted__phong6SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera_Piso.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl pasted__phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marco.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl pasted__phong8SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marco.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl pasted__phong8SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marco.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl pasted__phong12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Piso.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl pasted__phong12SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Cuarto.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Blanco.png
+Ns 18.00
+newmtl pasted__phong14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Manija.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Vidrio.png
+Ns 18.00
+newmtl pasted__phong14SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Manija.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Vidrio.png
+Ns 18.00
+newmtl pasted__standardSurface1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pasted__standardSurface1SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pasted__standardSurface1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Almohada.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Techo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Puertas.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 0.00
+newmtl phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Camino.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl phong7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Vidrio.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Vidrio.png
+Ns 18.00
+newmtl phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marco.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl phong10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Cesped.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl phong11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Arena.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Azul.png
+Ns 18.00
+newmtl phong12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Cuarto.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Blanco.png
+Ns 18.00
+newmtl phong13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Sala.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Blanco.png
+Ns 18.00
+newmtl phong14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Manija.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Vidrio.png
+Ns 18.00
+newmtl phong15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Manija.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Vidrio.png
+Ns 18.00
+newmtl standardSurface1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl timmy1:mesh0130mat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Timmy.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Timmy.png
+Ns 0.00

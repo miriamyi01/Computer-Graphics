@@ -1,0 +1,120 @@
+newmtl Sala:mesh0102mat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wanda.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Timmy.png
+Ns 0.00
+newmtl Sala:mesh0102mat2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wanda.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Timmy.png
+Ns 0.00
+newmtl Sala:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Cosmo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Timmy.png
+Ns 18.00
+newmtl Sala:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Manija.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Blanco.png
+Ns 18.00
+newmtl Sala:phong1SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Sofa.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Azul.png
+Ns 18.00
+newmtl Sala:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wanda.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Vidrio.png
+Ns 18.00
+newmtl Sala:phong2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Cosmo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Vidrio.png
+Ns 18.00
+newmtl Sala:phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Cojin.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Blanco.png
+Ns 18.00
+newmtl Sala:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wanda.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Timmy.png
+Ns 18.00
+newmtl Sala:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PeloP.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Timmy.png
+Ns 18.00
+newmtl Sala:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Poof.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Timmy.png
+Ns 18.00
+newmtl Sala:phong16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Timmy.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00

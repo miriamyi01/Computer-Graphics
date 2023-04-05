@@ -1,0 +1,40 @@
+newmtl Peces:mesh0102mat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wanda.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Blanco.png
+Ns 0.00
+newmtl Peces:mesh0228mat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Cosmo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Blanco.png
+Ns 0.00
+newmtl Peces:pasted__phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pez.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Blanco.png
+Ns 18.00
+newmtl Peces:pasted__phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wanda.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Blanco.png
+Ns 18.00

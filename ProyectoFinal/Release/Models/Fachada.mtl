@@ -1,0 +1,180 @@
+newmtl Fachada:pasted__phong1SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera_Normal.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl Fachada:pasted__phong2SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera_Normal1.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl Fachada:pasted__phong2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Almohada.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl Fachada:pasted__phong2SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Almohada.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl Fachada:pasted__phong3SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Techo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl Fachada:pasted__phong3SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Techo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl Fachada:pasted__phong3SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Techo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl Fachada:pasted__phong12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Piso.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl Fachada:pasted__phong12SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Cuarto.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Blanco.png
+Ns 18.00
+newmtl Fachada:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Almohada.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl Fachada:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Techo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl Fachada:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Puertas.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 0.00
+newmtl Fachada:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Camino.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl Fachada:phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marco.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl Fachada:phong10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd bottom.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl Fachada:phong12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Cuarto.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Blanco.png
+Ns 18.00
+newmtl Fachada:phong13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Sala.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Blanco.png
+Ns 18.00
+newmtl Fachada:phong15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Manija.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Vidrio.png
+Ns 18.00

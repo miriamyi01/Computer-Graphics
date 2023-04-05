@@ -1,0 +1,50 @@
+newmtl Recamara:pasted__lambert5SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Cuadro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Estrella.png
+Ns 18.00
+newmtl Recamara:pasted__phong1SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera_Normal.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Madera.png
+Ns 18.00
+newmtl Recamara:pasted__phong3SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Almohada.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Blanco.png
+Ns 18.00
+newmtl Recamara:pasted__phong4SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Cobija.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Azul.png
+Ns 18.00
+newmtl Recamara:phong11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Arena.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specular_Azul.png
+Ns 18.00
