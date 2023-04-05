@@ -1,0 +1,12 @@
+﻿  317231117_Reporte05_Gpo06.cpp
+C:\Users\miria\CGIHC\R5\R5\317231117_Reporte05_Gpo06.cpp(105,30): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\miria\CGIHC\R5\R5\317231117_Reporte05_Gpo06.cpp(196,17): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\miria\CGIHC\R5\R5\317231117_Reporte05_Gpo06.cpp(197,17): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\miria\CGIHC\R5\R5\317231117_Reporte05_Gpo06.cpp(201,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\miria\CGIHC\R5\R5\317231117_Reporte05_Gpo06.cpp(202,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\miria\CGIHC\R5\R5\317231117_Reporte05_Gpo06.cpp(204,13): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\miria\CGIHC\R5\R5\317231117_Reporte05_Gpo06.cpp(205,13): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_DXT.obj)' o en 'C:\Users\miria\CGIHC\R5\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_helper.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_helper.obj)' o en 'C:\Users\miria\CGIHC\R5\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(SOIL2.obj)' o en 'C:\Users\miria\CGIHC\R5\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  R5.vcxproj -> C:\Users\miria\CGIHC\R5\Debug\R5.exe
